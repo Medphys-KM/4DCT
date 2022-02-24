@@ -15,6 +15,6 @@ The package has been tested on the following systems:
 Linux: Ubuntu 16.04
 
 # Acknowledgments
-The raw CycleGAN code are provided by Jun-Yan Zhu and Taesung Park. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+The raw CycleGAN code was provided by Jun-Yan Zhu and Taesung Park. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 CycleGAN paper: https://arxiv.org/pdf/1703.10593.pdf
