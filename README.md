@@ -1,5 +1,5 @@
 # Overview
-This project provides a deep-learning framework to improve image quality and radiomics reproducibility for high-speed four-dimensional CT reconstruction
+This project provides a deep-learning framework to improve image quality and radiomics reproducibility for high-speed four-dimensional CT reconstruction. The deep-learning framework is based on CycleGAN. We improved it for our task.
 
 # Requirements
 torch>=1.4.0
