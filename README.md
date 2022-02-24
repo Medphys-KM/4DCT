@@ -3,11 +3,15 @@ This project provides a deep-learning framework to improve image quality and rad
 
 # Requirements
 torch>=1.4.0
+
 torchvision>=0.5.0
+
 dominate>=2.4.0
+
 visdom>=0.1.8.8 
 
 The package has been tested on the following systems:
+
 Linux: Ubuntu 16.04
 
 # Acknowledgments
